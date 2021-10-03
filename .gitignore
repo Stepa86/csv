@@ -1,0 +1,6 @@
+*.ospx
+
+tests-reports/
+.scannerwork/
+.sonar/
+out/
